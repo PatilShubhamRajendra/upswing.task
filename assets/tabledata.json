@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1000,
+        "name": "Bamboo Watch",
+        "image": "bamboo-watch.jpg",
+        "price": 65,
+        "category": "Accessories",
+        "quantity": 24
+    },
+    {
+        "id": 1001,
+        "name": "Black Watch",
+        "image": "black-watch.jpg",
+        "price": 72,
+        "category": "Accessories",
+        "quantity": 61
+    },
+    {
+        "id": 1002,
+        "name": "Blue Band",
+        "image": "blue-band.jpg",
+        "price": 79,
+        "category": "Fitness",
+        "quantity": 2
+    },
+    {
+        "id": 1003,
+        "name": "Blue T-Shirt",
+        "image": "blue-t-shirt.jpg",
+        "price": 29,
+        "category": "Clothing",
+        "quantity": 25
+    },
+    {
+        "id": 1004,
+        "name": "Bracelet",
+        "image": "bracelet.jpg",
+        "price": 15,
+        "category": "Accessories",
+        "quantity": 73
+    },
+    {
+        "id": 1005,
+        "name": "Brown Purse",
+        "image": "brown-purse.jpg",
+        "price": 120,
+        "category": "Accessories",
+        "quantity": 0
+    },
+    {
+        "id": 1006,
+        "name": "Chakra Bracelet",
+        "image": "chakra-bracelet.jpg",
+        "price": 32,
+        "category": "Accessories",
+        "quantity": 5
+    },
+    {
+        "id": 1007,
+        "name": "Galaxy Earrings",
+        "image": "galaxy-earrings.jpg",
+        "price": 34,
+        "category": "Accessories",
+        "quantity": 23
+    },
+    {
+        "id": 1008,
+        "name": "Game Controller",
+        "image": "game-controller.jpg",
+        "price": 99,
+        "category": "Electronics",
+        "quantity": 2
+    },
+    {
+        "id": 1009,
+        "name": "Gaming Set",
+        "image": "gaming-set.jpg",
+        "price": 299,
+        "category": "Electronics",
+        "quantity": 63
+    },
+    {
+        "id": 1010,
+        "name": "Gold Phone Case",
+        "image": "gold-phone-case.jpg",
+        "price": 24,
+        "category": "Accessories",
+        "quantity": 0
+    },
+    {
+        "id": 1011,
+        "name": "Green Earbuds",
+        "image": "green-earbuds.jpg",
+        "price": 89,
+        "category": "Electronics",
+        "quantity": 23
+    },
+    {
+        "id": 1012,
+        "name": "Green T-Shirt",
+        "image": "green-t-shirt.jpg",
+        "price": 49,
+        "category": "Clothing",
+        "quantity": 74
+    },
+    {
+        "id": 1013,
+        "name": "Grey T-Shirt",
+        "image": "grey-t-shirt.jpg",
+        "price": 48,
+        "category": "Clothing",
+        "quantity": 0
+    },
+    {
+        "id": 1014,
+        "name": "Headphones",
+        "image": "headphones.jpg",
+        "price": 175,
+        "category": "Electronics",
+        "quantity": 8
+    }
+]
